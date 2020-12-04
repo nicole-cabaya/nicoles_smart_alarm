@@ -38,6 +38,8 @@
     flask
     pyttsx3
     requests
+  
+  You will also have to acquire your own api keys to run this project (API url links in the METADATA section).
 
 >>>AUTHOR:
   Me - Nicole Cabaya
