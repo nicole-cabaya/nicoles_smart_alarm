@@ -1,0 +1,24 @@
+{
+"API-KEYS" : {
+  "news" : "62dce86afe134d039c25c1de871b8820",
+  "weather" : "8e7f7e3b7b2dfc334dd0cbad0f2e8130"
+},
+"filepaths" : {
+  "image" : "alarm_image.jpg",
+  "logfile" : "sys.log",
+  "template" : "template.html"
+
+},
+"location" : {
+  "city" : "Exeter",
+  "country" : "gb"
+},
+"base_url" : {
+  "news_url" : "https://newsapi.org/v2/top-headlines?",
+  "weather_url" : "http://api.openweathermap.org/data/2.5/weather?",
+  "public_h_eng" : "https://api.coronavirus.data.gov.uk/v1/data?",
+  "filter_ex" :  "filters=areaName=Exeter;date=",
+  "filter_en" : "filters=areaType=nation;areaName=england;date="
+}
+
+}

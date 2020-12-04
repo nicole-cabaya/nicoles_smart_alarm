@@ -1,0 +1,17 @@
+{
+  "data": [
+    "title" : "NEWS: "+title1,
+    "content" : content1,
+    "title" : "NEWS: "+title2,
+    "content" : content2,
+    "title" : "NEWS: "+title3,
+    "content" : content3,
+    "title" : "WEATHER (right now) : "+weather_city,
+    "content" : "TEMPERATURE (in Kelvin unit): {temperature},  DESCRIPTION: {description},  PRESSURE (in hPa unit): {pressure},  HUMIDITY (in %): {humidity}".format(temperature=str(weather_temp),
+    description=weather_des, pressure=str(weather_pre), humidity=str(weather_hum)),
+    "title" : "PUBLIC HEALTH ENGLAND--YESTERDAY'S COVID-19 RATES: {area}".format(area=area_name1),
+    "content" : "DATE: {date1} NEW CASES: {new_cases1} CUMULATIVE CASES: {cumulative_cases1} CUMULATIVE DEATHS: {cumulative_deaths1}".format(date1=date1, new_cases1=new_cases1, cumulative_cases1=cumulative_cases1, cumulative_deaths1=cumulative_deaths1),
+    "title" : "PUBLIC HEALTH ENGLAND--YESTERDAY'S COVID-19 RATES: {area}".format(area=area_name2),
+    "content" : "DATE: {date2} NEW CASES: {new_cases2} CUMULATIVE CASES: {cumulative_cases2} CUMULATIVE DEATHS: {cumulative_deaths2}".format(date2=date2, new_cases2=new_cases2, cumulative_cases2=cumulative_cases2, cumulative_deaths2=cumulative_deaths2)]
+  ]
+}

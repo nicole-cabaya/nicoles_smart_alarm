@@ -1,0 +1,19 @@
+{
+  "length": 1,
+  "maxPageLimit": 2500,
+  "data": [
+    {
+      "date": "2020-12-03",
+      "areaName": "Exeter",
+      "newCasesByPublishDate": 32,
+      "cumCasesByPublishDate": 2696
+    }
+  ],
+  "pagination": {
+    "current": "/v1/data?filters=areaName=Exeter;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1",
+    "next": null,
+    "previous": null,
+    "first": "/v1/data?filters=areaName=Exeter;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1",
+    "last": "/v1/data?filters=areaName=Exeter;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "length": 1,
+  "maxPageLimit": 2500,
+  "data": [
+    {
+      "date": "2020-12-03",
+      "areaName": "England",
+      "newCasesByPublishDate": 11992,
+      "cumCasesByPublishDate": 1438725
+    }
+  ],
+  "pagination": {
+    "current": "/v1/data?filters=areaType=nation;areaName=england;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1",
+    "next": null,
+    "previous": null,
+    "first": "/v1/data?filters=areaType=nation;areaName=england;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1",
+    "last": "/v1/data?filters=areaType=nation;areaName=england;date=2020-12-03&structure=%7B%22date%22:%22date%22,%22areaName%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1"
+  }
+}
