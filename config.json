@@ -1,7 +1,7 @@
 {
 "API-KEYS" : {
-  "news" : "62dce86afe134d039c25c1de871b8820",
-  "weather" : "8e7f7e3b7b2dfc334dd0cbad0f2e8130"
+  "news" : "<api key>",
+  "weather" : "<api key>"
 },
 "filepaths" : {
   "image" : "alarm_image.jpg",
